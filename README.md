@@ -1,3 +1,5 @@
+# FanCode Automation
+
 Task
 This project automates a scenario where:
 
